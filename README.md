@@ -8,21 +8,7 @@ I'm passionate about building robust, scalable applications and contributing to 
 
 ## Tech Stack
 
-**Languages & Core:** TypeScript, JavaScript, Python, SQL, HTML, CSS, Bash, Go
-
-**Backend:** Node.js, NestJS, ExpressJS, TypeORM, Sequelize, Mongoose
-
-**Frontend:** React, Next.js, Redux Toolkit, Vue.js, Nuxt, MaterialUI, Tailwind
-
-**Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis
-
-**Authentication & Security:** OAuth2, OIDC flows, JWT, Session management
-
-**Testing:** Jest, Vitest, Unit & Integration testing
-
-**Cloud & Infrastructure:** AWS, Azure, GCP
-
-**DevOps & Tools:** Docker, Terraform, CI/CD (GitHub Actions, GitLab/Bitbucket Pipelines)
+**Core:** Typescript, Node, SQL, AWS, React
 
 **Exploring:** Golang and its ecosystem
 
