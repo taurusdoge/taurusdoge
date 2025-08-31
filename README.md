@@ -1,6 +1,6 @@
 # Hello, I'm Yahor Zubkou 👋
 
-**Full Stack Software Engineer** | Working from Spain for companies across Europe, UK, and US
+**Senior Full Stack Engineer** | Working from Spain for companies across Europe, UK, and US
 
 ## About Me
 
