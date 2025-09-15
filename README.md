@@ -10,19 +10,7 @@ I'm passionate about building robust, scalable applications and contributing to 
 
 **Core:** Typescript, Node, SQL, AWS, React
 
-**Exploring:** Golang and its ecosystem
-
-## What I'm Up To 🚀
-
-🏥 **Current Project:** Building multitenant telemedicine software (backend focus)
-
-☁️ **Learning Journey:** Working towards AWS certification
-
-👥 **Leadership:** Mentoring teams and conducting technical interviews
-
-🌱 **Exploring:** Golang ecosystem and cloud-native technologies
-
-💡 **Passionate About:** Open source contributions and collaborative tech innovation
+**Exploring:** Rust and its ecosystem
 
 ## Get In Touch
 
